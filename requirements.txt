@@ -6,7 +6,7 @@ PyDrive
 PyPDF2
 aiofiles
 aiohttp
-aria2p
+
 asyncio
 beautifulsoup4
 cfscrape
