@@ -285,9 +285,6 @@
             "url": "https://github.com/hugovelias/heroku-buildpack-youtube-dl"
         },
         {
-            "url": "https://github.com/amivin/aria2-heroku"
-        },
-        {
             "url": "heroku/python"
         }
     ]
